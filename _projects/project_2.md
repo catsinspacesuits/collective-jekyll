@@ -1,6 +1,7 @@
 ---
 layout: project
-title: "Project 2"
-description: "Another description of the project goes here"
-format: "video"
+title: Berlin Organising Workshop Report
+description: Another description of the project goes here
+image: class.jpg
+format: video
 ---
